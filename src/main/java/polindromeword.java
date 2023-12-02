@@ -13,4 +13,4 @@ public class polindromeword {
             return isPalindrome(s.substring(1,s.length()-1));
         return false;
     }
-}
+}///963613
